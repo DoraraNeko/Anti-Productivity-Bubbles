@@ -157,7 +157,7 @@ At run time, place `APB.exe` and `settings.ini` in the same folder (the app also
 
 ## 8. References
 
-- The C++ / D3D11 / HLSL implementation in `D:\Coding\Keeps raining\DropletOverlayDemo` was used as a reference for screen capture, background texture input and transparent overlay techniques.
+- The author's own earlier raindrop overlay demo (C++ / D3D11 / HLSL) was used as a reference for screen capture, background texture input and transparent overlay techniques.
 
 ## 9. Items to verify
 
