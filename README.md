@@ -5,6 +5,8 @@
 
 Windows desktop overlay that renders rising, refractive soap bubbles (15 per monitor by default) over every monitor.
 
+![Demo](docs/demo.gif)
+
 - English manual: [README/README.en.md](README/README.en.md)
 - 日本語説明書: [README/README.ja.md](README/README.ja.md)
 - Specification: [Japanese](SPECIFICATION/SPECIFICATION.ja.md) / [English](SPECIFICATION/SPECIFICATION.en.md)
